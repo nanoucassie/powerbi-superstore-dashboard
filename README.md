@@ -46,10 +46,8 @@ Interactive Power BI dashboard built on the Superstore dataset. It highlights Sa
 - **Page Title**: dynamic title that renders the active date range (e.g., _“Jan 2015 to Dec 2015”_).
 - **Top-N Parameter**: numeric range parameter (0–20, default 10) used by a visual-level filter:
   - **Filter type:** Top N  
-  - **Show items:** Top **\<Parameter Value\>**  
+  - **Show items:** Top **<Parameter Value>**  
   - **By value:** `Total Sales`
-
-> If you want the exact formulas included in this README, say the word and I’ll add them here.
 
 ---
 
@@ -71,7 +69,7 @@ Interactive Power BI dashboard built on the Superstore dataset. It highlights Sa
 
 ## 🔗 Data Source
 
-_“Superstore”_ sample dataset (public/educational use).
+“Superstore” sample dataset (public/educational use).
 
 ---
 
@@ -83,6 +81,4 @@ MIT License — feel free to reuse with attribution.
 
 ## 👤 Author
 
-**nanoucassie** — Power BI / Data Visualization  
-
-
+**nanoucassie** — Power BI / Data Visualization
